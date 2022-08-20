@@ -1,0 +1,15 @@
+/Users/pavelpashkov/tast_34/bin/Debug/net6.0/tast_34
+/Users/pavelpashkov/tast_34/bin/Debug/net6.0/tast_34.deps.json
+/Users/pavelpashkov/tast_34/bin/Debug/net6.0/tast_34.runtimeconfig.json
+/Users/pavelpashkov/tast_34/bin/Debug/net6.0/tast_34.dll
+/Users/pavelpashkov/tast_34/bin/Debug/net6.0/tast_34.pdb
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.csproj.AssemblyReference.cache
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.AssemblyInfoInputs.cache
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.AssemblyInfo.cs
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.dll
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/refint/tast_34.dll
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.pdb
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/tast_34.genruntimeconfig.cache
+/Users/pavelpashkov/tast_34/obj/Debug/net6.0/ref/tast_34.dll
